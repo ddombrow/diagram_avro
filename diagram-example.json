@@ -1,0 +1,3882 @@
+{
+  "created_at": "2017-07-07T17:53:33.238Z",
+  "event_id": "1da50b80-633d-11e7-ad16-cb476ac900a2",
+  "floorPlan": {},
+  "floor_elements": {
+    "01006c71-e3e4-4826-9349-3f850025eb42": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 72 },
+      "font_size": 1,
+      "group_id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "id": "01006c71-e3e4-4826-9349-3f850025eb42",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 393.92869016752076, "y": 35.61740488602966 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "5d3c8d3b-fb95-464c-b504-b26148245a27": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "5d3c8d3b-fb95-464c-b504-b26148245a27",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "c07d4d14-301f-47e2-8ab0-2e4d558dec5b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c07d4d14-301f-47e2-8ab0-2e4d558dec5b",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "d2e6ce2d-9450-43eb-8e0e-58424d7e1ecb": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d2e6ce2d-9450-43eb-8e0e-58424d7e1ecb",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "01091738-34c4-452c-b919-75ac60eb3e13": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "01091738-34c4-452c-b919-75ac60eb3e13",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -133.64679063338676, "y": 293.90208950109644 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "293a03e5-dee0-41d5-baac-5e6116a7cc11": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "293a03e5-dee0-41d5-baac-5e6116a7cc11",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "6ded1559-b57a-4609-b79f-ea54f171c34f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6ded1559-b57a-4609-b79f-ea54f171c34f",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "09638ed3-5d7a-4504-af87-f9816ef70142": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "09638ed3-5d7a-4504-af87-f9816ef70142",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -387.16193232512103, "y": 77.86575273607191 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "09355907-5a0c-4fda-acea-c84b23941f22": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "09355907-5a0c-4fda-acea-c84b23941f22",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "0f926031-c8c6-4940-ade7-b77bd31a7ee1": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0f926031-c8c6-4940-ade7-b77bd31a7ee1",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "18f1c696-9442-4a7a-8073-6298aefada7c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "18f1c696-9442-4a7a-8073-6298aefada7c",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "582cd0e1-6303-4bc6-8dc2-0d3abcb17516": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "582cd0e1-6303-4bc6-8dc2-0d3abcb17516",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "76cc5d88-0842-4fb3-b3ac-5f740c9fad21": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "76cc5d88-0842-4fb3-b3ac-5f740c9fad21",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "9189c60b-626a-4672-ae46-a15943f63505": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "9189c60b-626a-4672-ae46-a15943f63505",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "992bf702-0188-4c49-ab4b-b662a94ff496": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "992bf702-0188-4c49-ab4b-b662a94ff496",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "ac66782e-78a5-470b-a9c5-407ace126a06": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ac66782e-78a5-470b-a9c5-407ace126a06",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "b312435a-2b98-42e4-9d1f-c351a1a1d277": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b312435a-2b98-42e4-9d1f-c351a1a1d277",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "b5f5ff58-065b-48fe-a4eb-0d95ad6301e8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b5f5ff58-065b-48fe-a4eb-0d95ad6301e8",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "0b018c4d-88d8-4972-b7d2-29138fcf66e0": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "0b018c4d-88d8-4972-b7d2-29138fcf66e0",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -27.161932325121136, "y": -10.13424726392799 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "00f79f12-4c21-4476-a63f-47c55bc297b7": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "00f79f12-4c21-4476-a63f-47c55bc297b7",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "1ada9c72-cf75-4fad-b77b-039c9c1f57a3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "1ada9c72-cf75-4fad-b77b-039c9c1f57a3",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "6f760847-901e-4d79-a06d-3a61f531c140": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6f760847-901e-4d79-a06d-3a61f531c140",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "80b32041-861c-47b3-a199-0f5987c8b378": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "80b32041-861c-47b3-a199-0f5987c8b378",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "81f851ea-77d8-4c19-ab71-e361f47f93ad": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "81f851ea-77d8-4c19-ab71-e361f47f93ad",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "9ce018b1-f769-4ae9-97ae-34c84da97d78": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "9ce018b1-f769-4ae9-97ae-34c84da97d78",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "b8af06ad-f51b-442b-9571-b059d8113897": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b8af06ad-f51b-442b-9571-b059d8113897",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "bf7d096b-7ebc-48d8-88a5-07c8b2ea34a6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bf7d096b-7ebc-48d8-88a5-07c8b2ea34a6",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "c7dc9a3a-8d1e-4423-bda2-32708453dc0f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c7dc9a3a-8d1e-4423-bda2-32708453dc0f",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "cdfbc00b-07e4-4db0-828b-f975e98cd65d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "cdfbc00b-07e4-4db0-828b-f975e98cd65d",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "0dc43dfb-3558-461d-a132-70541fd84770": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "0dc43dfb-3558-461d-a132-70541fd84770",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 106.35320936661337, "y": 275.9020895010965 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "17b3e189-602c-48e3-9958-c4629ed05cdc": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "17b3e189-602c-48e3-9958-c4629ed05cdc",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "2c4a9a11-7477-4247-927b-0f5f030e20b8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2c4a9a11-7477-4247-927b-0f5f030e20b8",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "10d4ac55-28f7-4ad6-a268-316a368bb45b": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "10d4ac55-28f7-4ad6-a268-316a368bb45b",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -99.16193232512111, "y": 77.86575273607194 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0d5ac85e-5782-407d-bf71-0935adcc1d98": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0d5ac85e-5782-407d-bf71-0935adcc1d98",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "10e4badf-9aef-4522-818e-f45c54388d26": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "10e4badf-9aef-4522-818e-f45c54388d26",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "1b6ea0cb-1688-46f9-8b6d-c1237611799e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "1b6ea0cb-1688-46f9-8b6d-c1237611799e",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "32f7a28f-0772-472e-98a8-9c675a350c6b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "32f7a28f-0772-472e-98a8-9c675a350c6b",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "7f4115ca-2beb-4544-835e-4173a62e1283": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7f4115ca-2beb-4544-835e-4173a62e1283",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "bef6d3dd-3057-46e5-80fd-9f256269118f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bef6d3dd-3057-46e5-80fd-9f256269118f",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "ddcf6f4c-0cb3-4c4f-8646-49cab3c7d8f8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ddcf6f4c-0cb3-4c4f-8646-49cab3c7d8f8",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "df999cdf-c2d0-479e-ba21-fe983f71b8c7": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "df999cdf-c2d0-479e-ba21-fe983f71b8c7",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "dfc6eede-bd0b-4c10-88b7-8432ec341668": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "dfc6eede-bd0b-4c10-88b7-8432ec341668",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "feb4e35c-6ba2-4c32-b4ea-6b1c153f6a7c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "feb4e35c-6ba2-4c32-b4ea-6b1c153f6a7c",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "11ea74b2-2237-4d6d-b65a-891f7fa8d18b": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "11ea74b2-2237-4d6d-b65a-891f7fa8d18b",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -27.161932325121164, "y": 165.8657527360721 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "2d3b6b77-2443-498d-9728-5329eb5699e3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2d3b6b77-2443-498d-9728-5329eb5699e3",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "5dd8845b-1078-4d38-8c3a-d2595e205a63": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "5dd8845b-1078-4d38-8c3a-d2595e205a63",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "69328c97-63aa-4c8c-bb0a-dd078699ee8d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "69328c97-63aa-4c8c-bb0a-dd078699ee8d",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "7857ddeb-89fb-43b1-af7d-bc4df2972c13": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7857ddeb-89fb-43b1-af7d-bc4df2972c13",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "8a617c6c-91e7-4ea4-b092-f018311f6c68": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8a617c6c-91e7-4ea4-b092-f018311f6c68",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "8b16bb75-5ec3-4432-b8b0-8071ced54a85": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8b16bb75-5ec3-4432-b8b0-8071ced54a85",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "8beeb4be-890d-4807-8a46-cfb0824670f8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8beeb4be-890d-4807-8a46-cfb0824670f8",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "c5ab44d3-45c0-4ce4-b525-b3ff0946c034": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c5ab44d3-45c0-4ce4-b525-b3ff0946c034",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "c75b807d-d78b-4b25-a064-a54d75a103bc": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c75b807d-d78b-4b25-a064-a54d75a103bc",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "e47b211e-1194-474e-a4f1-dd1f3539bc46": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e47b211e-1194-474e-a4f1-dd1f3539bc46",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "1a1399b8-4317-43e2-b9c5-82098f813ef2": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "1a1399b8-4317-43e2-b9c5-82098f813ef2",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 10.353209366613376, "y": 293.9020895010965 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "4c6ca123-734f-4527-9cb1-8e81c5d5073b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4c6ca123-734f-4527-9cb1-8e81c5d5073b",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "f1383e5b-4bca-48fb-be35-797a07ce8c93": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f1383e5b-4bca-48fb-be35-797a07ce8c93",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "1c9e6f91-9b9b-4534-bf9c-200bac5de5f3": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "1c9e6f91-9b9b-4534-bf9c-200bac5de5f3",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -243.16193232512103, "y": -98.13424726392799 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "02fc3096-90da-47b8-be18-4aa78c57c15a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "02fc3096-90da-47b8-be18-4aa78c57c15a",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "0762dd6d-43a6-4bf8-87a0-637061d52b85": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0762dd6d-43a6-4bf8-87a0-637061d52b85",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "0d04ea5b-b92a-418c-832b-f1203b62d353": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0d04ea5b-b92a-418c-832b-f1203b62d353",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "23aa23ee-a9f8-47dc-9511-b0f801199eab": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "23aa23ee-a9f8-47dc-9511-b0f801199eab",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "3004f838-99c6-4683-8209-5d261da1afc2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3004f838-99c6-4683-8209-5d261da1afc2",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "4015525b-9c3a-4333-b1eb-4dd575dedf79": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4015525b-9c3a-4333-b1eb-4dd575dedf79",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "6e5dde1d-df02-4251-9d86-ee92ac566c7c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6e5dde1d-df02-4251-9d86-ee92ac566c7c",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "ac22d175-dda4-4d6e-8475-0a37ce3de839": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ac22d175-dda4-4d6e-8475-0a37ce3de839",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "d197e906-7aff-438b-a0ea-e266367c7bad": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d197e906-7aff-438b-a0ea-e266367c7bad",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "fe02a0e2-bdfd-443a-a209-f38303f21d61": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "fe02a0e2-bdfd-443a-a209-f38303f21d61",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "1cd4396b-58de-4945-b03a-3539bfe13c0a": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "1cd4396b-58de-4945-b03a-3539bfe13c0a",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 188.83806767487874, "y": 77.86575273607194 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0e461dc6-555f-4f4b-8a15-1fd5705fb11c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0e461dc6-555f-4f4b-8a15-1fd5705fb11c",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "27bd2652-2301-40e8-bf20-80f0e8b9c504": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "27bd2652-2301-40e8-bf20-80f0e8b9c504",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "29b23e66-5da0-4ae4-9ea6-3e0e08336af2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "29b23e66-5da0-4ae4-9ea6-3e0e08336af2",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "4e511d5c-c9a7-4a87-b6e6-fd3ce5f067c5": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4e511d5c-c9a7-4a87-b6e6-fd3ce5f067c5",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "527f1672-e376-451d-86e6-98298f379710": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "527f1672-e376-451d-86e6-98298f379710",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "875a039e-f12b-4afa-8ea6-2f82617e3c51": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "875a039e-f12b-4afa-8ea6-2f82617e3c51",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "a176e259-9707-4e20-ae2f-3175bb009a33": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a176e259-9707-4e20-ae2f-3175bb009a33",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "a2501021-8b99-44a8-9249-c1dfea77c556": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a2501021-8b99-44a8-9249-c1dfea77c556",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "a7b6e782-c297-4290-9b73-b3fd1154d6ee": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a7b6e782-c297-4290-9b73-b3fd1154d6ee",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "ba9655df-3737-4016-a5f0-aef6211a937c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ba9655df-3737-4016-a5f0-aef6211a937c",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "1cfd18f0-18c8-480e-b7be-1d76a69a7cc2": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 72 },
+      "font_size": 1,
+      "group_id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "id": "1cfd18f0-18c8-480e-b7be-1d76a69a7cc2",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 393.92869016752076, "y": 89.6174048860296 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "05ee4ced-0165-4930-9e4d-7364a2fa438f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "05ee4ced-0165-4930-9e4d-7364a2fa438f",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "60ff6500-5c82-4df1-b4c4-baa156584a60": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "60ff6500-5c82-4df1-b4c4-baa156584a60",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "e1f51fbb-9377-4399-8836-b3d2d5dae3d6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e1f51fbb-9377-4399-8836-b3d2d5dae3d6",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "1d0ea1a9-b816-4b4f-95c6-607c5286074a": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "1d0ea1a9-b816-4b4f-95c6-607c5286074a",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 106.35320936661348, "y": 293.9020895010963 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "218d2363-7b21-4b75-9c23-dbc8746847b8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "218d2363-7b21-4b75-9c23-dbc8746847b8",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          },
+          "ebe068a5-50fc-4083-bae9-1551f6278222": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ebe068a5-50fc-4083-bae9-1551f6278222",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "2057c01b-555f-4cfb-a4a5-9ff68dd6b386": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "2057c01b-555f-4cfb-a4a5-9ff68dd6b386",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 154.35320936661338, "y": 293.90208950109667 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "19abf469-6d6e-4a7d-8d27-70d4fe1242d2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "19abf469-6d6e-4a7d-8d27-70d4fe1242d2",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          },
+          "bd9cfa69-964e-4c01-bd0b-b41024b655e3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bd9cfa69-964e-4c01-bd0b-b41024b655e3",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "237d964c-8c5f-48dd-9405-ec54f2e31f85": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 72 },
+      "font_size": 1,
+      "group_id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "id": "237d964c-8c5f-48dd-9405-ec54f2e31f85",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 393.92869016752076, "y": 197.6174048860298 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "720c0362-71f0-4af4-87b2-d886c6d2f69d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "720c0362-71f0-4af4-87b2-d886c6d2f69d",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "b28b3385-8af6-44f3-ae47-834e375e1ed5": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b28b3385-8af6-44f3-ae47-834e375e1ed5",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "bdd98f68-ad26-4791-82a8-741f6b0cab18": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bdd98f68-ad26-4791-82a8-741f6b0cab18",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "2b772b94-1788-46c2-90a1-38ff8866893d": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "2b772b94-1788-46c2-90a1-38ff8866893d",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -171.16193232512103, "y": -186.13424726392802 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "00bbad9c-2ec5-4780-ada3-61450c637d67": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "00bbad9c-2ec5-4780-ada3-61450c637d67",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "091e0b2a-3039-4f64-b94f-af751038fba3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "091e0b2a-3039-4f64-b94f-af751038fba3",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "11b6cb4d-b616-4874-8da7-ae7fa1f29f46": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "11b6cb4d-b616-4874-8da7-ae7fa1f29f46",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "12a3c862-effe-450b-b221-b4100999d228": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "12a3c862-effe-450b-b221-b4100999d228",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "230a553d-d863-4c7b-a0f4-f3cf13c6fbee": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "230a553d-d863-4c7b-a0f4-f3cf13c6fbee",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "4db6e6df-3949-4e20-aa19-bdac6bbebc7c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4db6e6df-3949-4e20-aa19-bdac6bbebc7c",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "836db023-dd89-409f-9d3b-60a675fd26b9": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "836db023-dd89-409f-9d3b-60a675fd26b9",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "8e105d77-117a-4e78-b0ef-d150255c9640": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8e105d77-117a-4e78-b0ef-d150255c9640",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "926ae62e-3521-4e0c-8e4a-0f454be2c596": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "926ae62e-3521-4e0c-8e4a-0f454be2c596",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "ffc66903-a667-4a29-bdd5-635ffb19d113": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ffc66903-a667-4a29-bdd5-635ffb19d113",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "317bf100-1dec-451e-b83e-cb95632c76d1": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "317bf100-1dec-451e-b83e-cb95632c76d1",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -37.646790633386615, "y": 275.9020895010965 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "238996b9-c5aa-4171-af64-a5f8a0ac4bd2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "238996b9-c5aa-4171-af64-a5f8a0ac4bd2",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          },
+          "5c137142-1998-49d6-99bc-6d38a7c8ac79": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "5c137142-1998-49d6-99bc-6d38a7c8ac79",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "335eed76-b0a1-4f4e-9335-84735938b518": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "335eed76-b0a1-4f4e-9335-84735938b518",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -99.16193232512109, "y": -274.13424726392793 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "23a46b86-40da-4d5b-8cb8-d97c3ed68ced": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "23a46b86-40da-4d5b-8cb8-d97c3ed68ced",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "4bb751cc-64db-4ac5-b1ec-30e5bb252a4e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4bb751cc-64db-4ac5-b1ec-30e5bb252a4e",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "56e4b8fa-6051-4281-a658-d04439a0ad47": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "56e4b8fa-6051-4281-a658-d04439a0ad47",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "7f45fb17-a970-466c-84b8-195ca4df23ea": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7f45fb17-a970-466c-84b8-195ca4df23ea",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "8f6dec63-594d-4ec6-93c9-131849dff80c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8f6dec63-594d-4ec6-93c9-131849dff80c",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "906477ef-746e-4e8f-92b1-dd4af98d10af": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "906477ef-746e-4e8f-92b1-dd4af98d10af",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "d0679673-9637-46d5-a36f-bf55b324ba3e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d0679673-9637-46d5-a36f-bf55b324ba3e",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "db575a0b-fe78-46e0-b83f-8a6134032af8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "db575a0b-fe78-46e0-b83f-8a6134032af8",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "eb8a3f58-f99e-4b0e-8d2b-643d7963ad72": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "eb8a3f58-f99e-4b0e-8d2b-643d7963ad72",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "f869126b-1c00-49ca-9bae-f83c25eb7c2e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f869126b-1c00-49ca-9bae-f83c25eb7c2e",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "3504bcf4-833f-4ce2-a46e-ccb263686bf4": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "3504bcf4-833f-4ce2-a46e-ccb263686bf4",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -277.64679063338673, "y": 293.90208950109644 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "79e8e74e-2dcd-49aa-a9ff-c956892ddbcc": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "79e8e74e-2dcd-49aa-a9ff-c956892ddbcc",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          },
+          "f4da52af-a0ac-4ca7-b52a-b164de191613": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f4da52af-a0ac-4ca7-b52a-b164de191613",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "3bc03291-91a2-43ff-814c-a8f4644db837": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "3bc03291-91a2-43ff-814c-a8f4644db837",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -243.16193232512114, "y": -274.1342472639278 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "214f94d7-3785-408f-8d8d-3bacd3153beb": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "214f94d7-3785-408f-8d8d-3bacd3153beb",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "28a44324-cdef-4d30-9c38-d5ab6fd5c618": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "28a44324-cdef-4d30-9c38-d5ab6fd5c618",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "3976cf50-5add-4fab-901c-b20e36331e71": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3976cf50-5add-4fab-901c-b20e36331e71",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "3fd76f53-b83f-4470-9de5-1d368dd89112": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3fd76f53-b83f-4470-9de5-1d368dd89112",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "430601d3-17a5-4f41-893c-ebf1ccdc4750": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "430601d3-17a5-4f41-893c-ebf1ccdc4750",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "4b92783a-fc09-4269-9142-978a4470a85d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4b92783a-fc09-4269-9142-978a4470a85d",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "4cf8573a-40e2-4ba4-a42b-e200bcbad723": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4cf8573a-40e2-4ba4-a42b-e200bcbad723",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "9a26c129-7ce3-41e0-9a05-52dabe7b8f5e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "9a26c129-7ce3-41e0-9a05-52dabe7b8f5e",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "b451eae2-11d0-4b04-803f-27ea6e298213": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b451eae2-11d0-4b04-803f-27ea6e298213",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "f53658e8-60af-4dd7-8350-eef411f7e632": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f53658e8-60af-4dd7-8350-eef411f7e632",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "44a0c562-f293-4a5e-9c52-b282084ff53a": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "44a0c562-f293-4a5e-9c52-b282084ff53a",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -315.16193232512114, "y": 165.86575273607198 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "10bf2967-e74e-4995-8884-f06ec8568770": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "10bf2967-e74e-4995-8884-f06ec8568770",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "2f6bc4e7-7c2d-4c42-8690-e6e3ee1f8f2c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2f6bc4e7-7c2d-4c42-8690-e6e3ee1f8f2c",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "368bae08-c94a-4ad4-a93b-9f4827977d35": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "368bae08-c94a-4ad4-a93b-9f4827977d35",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "45d0c197-9309-4783-b3fa-70e0065c1a58": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "45d0c197-9309-4783-b3fa-70e0065c1a58",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "b087da0c-94e3-4e7d-8976-89fa3b6adf1a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b087da0c-94e3-4e7d-8976-89fa3b6adf1a",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "b58fab64-03e7-4def-90d9-0c774117a54a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b58fab64-03e7-4def-90d9-0c774117a54a",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "bcd03c56-90e6-4fe4-a492-741e0788b4b6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bcd03c56-90e6-4fe4-a492-741e0788b4b6",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "c6fce16f-8fe0-4292-96ee-411b46a1b562": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c6fce16f-8fe0-4292-96ee-411b46a1b562",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "eab9892b-7962-4e3f-99fa-efbff39b6a1a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "eab9892b-7962-4e3f-99fa-efbff39b6a1a",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "f60a7203-e3f6-4333-95d9-d6aa9c023d1a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f60a7203-e3f6-4333-95d9-d6aa9c023d1a",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "4ae521b8-2196-42f3-851f-b143050ec928": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "4ae521b8-2196-42f3-851f-b143050ec928",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 202.3532093666136, "y": 293.90208950109627 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "203d6809-4c7d-421f-9978-df6e62aa9150": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "203d6809-4c7d-421f-9978-df6e62aa9150",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "ff9dbc20-274f-4b27-899d-2191d580c0b4": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ff9dbc20-274f-4b27-899d-2191d580c0b4",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "4c1e8e49-e9ed-48f6-9cb8-68a46b5ce7a3": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "4c1e8e49-e9ed-48f6-9cb8-68a46b5ce7a3",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -85.64679063338666, "y": 275.90208950109644 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "201e3dbb-2e79-4a70-bfed-c0451d8b232f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "201e3dbb-2e79-4a70-bfed-c0451d8b232f",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "297b31b1-227e-44df-9dcc-eb614255a2d3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "297b31b1-227e-44df-9dcc-eb614255a2d3",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "52299695-59de-4f41-a8d7-1633b4a68725": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "52299695-59de-4f41-a8d7-1633b4a68725",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -277.64679063338684, "y": 275.90208950109644 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "04e7ce32-798e-4b18-8acc-24885fce359d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "04e7ce32-798e-4b18-8acc-24885fce359d",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          },
+          "7e670146-1ca9-4d9d-bef4-33d699238aae": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7e670146-1ca9-4d9d-bef4-33d699238aae",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "59909773-5bbe-4b4a-8de7-9fc52629f7c1": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "59909773-5bbe-4b4a-8de7-9fc52629f7c1",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 58.35320936661341, "y": 293.90208950109644 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "53770697-43de-48f0-8114-1897987e44c2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "53770697-43de-48f0-8114-1897987e44c2",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "a00cc81c-738c-4e6f-a393-8f24b4bd51f7": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a00cc81c-738c-4e6f-a393-8f24b4bd51f7",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "6044337e-63a9-4550-80a5-ff2589252950": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "6044337e-63a9-4550-80a5-ff2589252950",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 260.83806767487874, "y": -10.13424726392799 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "07c4d0f9-0fd1-4be9-b18c-dac53b2f26f3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "07c4d0f9-0fd1-4be9-b18c-dac53b2f26f3",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "46c373c1-4709-469b-92a1-b0304ffeb6a8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "46c373c1-4709-469b-92a1-b0304ffeb6a8",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "61da37ea-832b-495a-abe6-8e12a4a11bbb": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "61da37ea-832b-495a-abe6-8e12a4a11bbb",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "712c9bcc-253a-40c2-a41a-9ab05f0d3ecd": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "712c9bcc-253a-40c2-a41a-9ab05f0d3ecd",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "7b3c7c83-2ea3-4184-b9f4-144e49d3a21f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7b3c7c83-2ea3-4184-b9f4-144e49d3a21f",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "c24b13d3-0bf6-4ab4-b352-fa720b952e09": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c24b13d3-0bf6-4ab4-b352-fa720b952e09",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "dfba2c14-bda8-46d4-ba34-4ab14af8df5e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "dfba2c14-bda8-46d4-ba34-4ab14af8df5e",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e424f2c6-d6ed-454c-941b-9ab1e2d077a4": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e424f2c6-d6ed-454c-941b-9ab1e2d077a4",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e544ecce-90cd-4a97-9ea4-2d27240e01f1": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e544ecce-90cd-4a97-9ea4-2d27240e01f1",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "f89a761d-df86-429e-a8fc-d3cb5e571894": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f89a761d-df86-429e-a8fc-d3cb5e571894",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "65004be1-438d-4e80-8448-67705f93c98b": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "65004be1-438d-4e80-8448-67705f93c98b",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -229.6467906333868, "y": 293.90208950109644 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "25f82ceb-c4ba-4685-9a67-73d7c04f8d93": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "25f82ceb-c4ba-4685-9a67-73d7c04f8d93",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          },
+          "80ebc90b-f8f9-419d-9acf-b53d1b9f9d57": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "80ebc90b-f8f9-419d-9acf-b53d1b9f9d57",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "6ecbfe20-7372-4a5c-90af-39e4adf36f67": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "6ecbfe20-7372-4a5c-90af-39e4adf36f67",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 154.35320936661338, "y": 275.90208950109644 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "2060c9f8-7f5b-4fea-b88e-d31bf8ceeec2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2060c9f8-7f5b-4fea-b88e-d31bf8ceeec2",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "c9e8ea85-7e7e-4669-a215-0357d0cc9476": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c9e8ea85-7e7e-4669-a215-0357d0cc9476",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "718db27e-c4b6-4392-b1f5-209436de01a8": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "718db27e-c4b6-4392-b1f5-209436de01a8",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 44.8380676748789, "y": -274.1342472639278 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "04f2f96f-3a88-4074-a97a-fc20c5010eae": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "04f2f96f-3a88-4074-a97a-fc20c5010eae",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "11001950-4567-4190-ab11-74b0c8ddd4bd": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "11001950-4567-4190-ab11-74b0c8ddd4bd",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "1b71a4d5-50ca-4cf5-b36f-6a9d6a8d87a6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "1b71a4d5-50ca-4cf5-b36f-6a9d6a8d87a6",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "264027b3-c55a-49f1-8606-d9f002caa657": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "264027b3-c55a-49f1-8606-d9f002caa657",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "3210ac03-7b77-44be-bbb3-ee76d8f9ad39": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3210ac03-7b77-44be-bbb3-ee76d8f9ad39",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "3639a915-eb96-4750-ab1c-406ca3c77724": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3639a915-eb96-4750-ab1c-406ca3c77724",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "90635f91-4e83-4f75-b709-01f1370a4224": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "90635f91-4e83-4f75-b709-01f1370a4224",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "bbcc2253-7d13-4af0-a842-2e582e93ed70": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bbcc2253-7d13-4af0-a842-2e582e93ed70",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "bc47a4e5-103c-4059-8416-d8815394c469": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bc47a4e5-103c-4059-8416-d8815394c469",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "d68d5664-6443-4192-8887-7400f89579f8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d68d5664-6443-4192-8887-7400f89579f8",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "7400cf54-e792-404e-93c3-b20f5ff5f9f9": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 72 },
+      "font_size": 1,
+      "group_id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "id": "7400cf54-e792-404e-93c3-b20f5ff5f9f9",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 393.92869016752076, "y": -240.38259511397032 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0e1f25cc-447b-4aa8-be25-8ce3950f88a2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0e1f25cc-447b-4aa8-be25-8ce3950f88a2",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "273eaa13-9f28-4716-970e-743cd92d97e5": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "273eaa13-9f28-4716-970e-743cd92d97e5",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "d01c07f8-5f76-4f99-b87f-1b2bbb7c2bb7": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d01c07f8-5f76-4f99-b87f-1b2bbb7c2bb7",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "747427af-19fb-4bd3-b405-85059b5efd55": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 72 },
+      "font_size": 1,
+      "group_id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "id": "747427af-19fb-4bd3-b405-85059b5efd55",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 393.92869016752076, "y": -132.38259511397032 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "54b407ff-1bc5-4cca-8ce3-d73b351f248b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "54b407ff-1bc5-4cca-8ce3-d73b351f248b",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "bd38b425-2243-4c32-8a52-8dc737070968": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bd38b425-2243-4c32-8a52-8dc737070968",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "e2b372e2-f8d1-41de-b928-64ecc48c2e68": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e2b372e2-f8d1-41de-b928-64ecc48c2e68",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "78823bab-3e03-4a98-8a21-b4c3be5a1f74": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 72 },
+      "font_size": 1,
+      "group_id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "id": "78823bab-3e03-4a98-8a21-b4c3be5a1f74",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 393.92869016752076, "y": -186.38259511397027 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0d52dfad-9f2b-47f6-b686-d18288a98707": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0d52dfad-9f2b-47f6-b686-d18288a98707",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "5983065f-aa1d-424c-9e83-b63d04036951": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "5983065f-aa1d-424c-9e83-b63d04036951",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "ccd9bfe4-ac54-49b9-aee5-8e7fd6f85da2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ccd9bfe4-ac54-49b9-aee5-8e7fd6f85da2",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "7c4549a0-9e67-4835-8770-fb8e6a753e7c": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "7c4549a0-9e67-4835-8770-fb8e6a753e7c",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 10.353209366613404, "y": 275.90208950109655 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "4442b183-f416-4572-832d-8465c603c0e8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4442b183-f416-4572-832d-8465c603c0e8",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "da69b176-c26d-4823-b61c-d081f36d92ed": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "da69b176-c26d-4823-b61c-d081f36d92ed",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "7e8f0726-2aff-4a1e-9dfc-90aad714095f": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "7e8f0726-2aff-4a1e-9dfc-90aad714095f",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -229.64679063338667, "y": 275.90208950109644 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "9052c8fc-e6d4-4dba-8065-b314ad00979f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "9052c8fc-e6d4-4dba-8065-b314ad00979f",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "ee1b3f74-fcee-4d4e-9ccc-4ba6a145b612": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ee1b3f74-fcee-4d4e-9ccc-4ba6a145b612",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "83193d9a-e15e-4f96-a92f-b8645599caa4": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "83193d9a-e15e-4f96-a92f-b8645599caa4",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -171.16193232512097, "y": -10.134247263927984 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0573acce-5ad7-4d2e-b382-d35bbe28492c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0573acce-5ad7-4d2e-b382-d35bbe28492c",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "2127e9e9-537a-489b-a079-d9cbd1fef37b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2127e9e9-537a-489b-a079-d9cbd1fef37b",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "2f8bd902-4bf8-473a-8253-7908e7d3615f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2f8bd902-4bf8-473a-8253-7908e7d3615f",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "7f91103d-7e06-4adb-ada8-4ffb266f144b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7f91103d-7e06-4adb-ada8-4ffb266f144b",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "961dc1a3-dc05-41b2-a8b5-5544100db5e3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "961dc1a3-dc05-41b2-a8b5-5544100db5e3",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "967eadad-d288-4731-a44f-85d685c39e87": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "967eadad-d288-4731-a44f-85d685c39e87",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "b9723afb-1520-4a35-9a02-b41e807cddce": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b9723afb-1520-4a35-9a02-b41e807cddce",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "ddc2f1e3-3fad-4ccb-ac46-531007ac2cdb": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ddc2f1e3-3fad-4ccb-ac46-531007ac2cdb",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "f23833b9-de8a-4359-9dce-720b2e34f226": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f23833b9-de8a-4359-9dce-720b2e34f226",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "f38a508f-aed9-42a8-b753-26c4ea050203": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f38a508f-aed9-42a8-b753-26c4ea050203",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "8db4c4cb-1147-4b1c-b7d3-324a59e8c9ed": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "8db4c4cb-1147-4b1c-b7d3-324a59e8c9ed",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -181.64679063338667, "y": 275.9020895010965 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "3a93ed83-b2ee-43b8-89c4-c5eba4e8e5b7": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3a93ed83-b2ee-43b8-89c4-c5eba4e8e5b7",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          },
+          "999cb3aa-2c3f-42d9-8310-b9a9aa730b98": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "999cb3aa-2c3f-42d9-8310-b9a9aa730b98",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "92406808-43d5-4ff1-a094-7d4ff1ecccfd": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 72 },
+      "font_size": 1,
+      "group_id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "id": "92406808-43d5-4ff1-a094-7d4ff1ecccfd",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 393.92869016752076, "y": -294.3825951139704 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "1edb5bf7-4b5d-46a8-a734-8c79d719ec39": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "1edb5bf7-4b5d-46a8-a734-8c79d719ec39",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "797aab8d-5454-4568-b0bb-f0d6b4e863b9": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "797aab8d-5454-4568-b0bb-f0d6b4e863b9",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "da630ccc-1de7-45c7-a293-93b8608f96a1": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "da630ccc-1de7-45c7-a293-93b8608f96a1",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "9fcd7824-fb0f-4a0e-90cd-49798b459687": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "9fcd7824-fb0f-4a0e-90cd-49798b459687",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -133.64679063338664, "y": 275.9020895010965 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "009c9ebd-f57e-47e5-934f-72b41e420e47": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "009c9ebd-f57e-47e5-934f-72b41e420e47",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "e8d4237c-2ddf-4bde-ad83-54fb3f9646a4": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e8d4237c-2ddf-4bde-ad83-54fb3f9646a4",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "a36fabf2-b338-46c5-a6f8-722a0edfc57c": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "a36fabf2-b338-46c5-a6f8-722a0edfc57c",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 260.83806767487863, "y": -186.13424726392802 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0265ef6d-9a5f-4993-93a2-1e4589730111": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0265ef6d-9a5f-4993-93a2-1e4589730111",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "139e3c9e-d02a-445c-bf1e-24735f920f41": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "139e3c9e-d02a-445c-bf1e-24735f920f41",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "22373c5f-6696-4dd7-97ae-e53b31b6d4c4": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "22373c5f-6696-4dd7-97ae-e53b31b6d4c4",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "2afaeb10-be0a-4c3e-8157-cee642855036": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2afaeb10-be0a-4c3e-8157-cee642855036",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "3324ccc6-4535-4c2b-865b-27e588c27ec2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3324ccc6-4535-4c2b-865b-27e588c27ec2",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "51e4c49f-ee66-489c-ad3a-6152a10038a6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "51e4c49f-ee66-489c-ad3a-6152a10038a6",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "5423bb3e-bdd5-4d05-881f-e6ec608749c6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "5423bb3e-bdd5-4d05-881f-e6ec608749c6",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "64640bad-aadf-40b7-a393-0c08ae11114f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "64640bad-aadf-40b7-a393-0c08ae11114f",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "b46c624e-aa56-49c4-8b8a-37c76d012409": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b46c624e-aa56-49c4-8b8a-37c76d012409",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "d9ed774f-1534-4f42-8a28-cc2ce7b9bf74": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d9ed774f-1534-4f42-8a28-cc2ce7b9bf74",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "ac773bd2-4117-4100-bbcf-48c066926c7b": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "ac773bd2-4117-4100-bbcf-48c066926c7b",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 188.83806767487874, "y": -274.13424726392793 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "5b178f31-d25d-49c8-b586-73d7fb3fc35b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "5b178f31-d25d-49c8-b586-73d7fb3fc35b",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "6bddd0ce-926e-4a4c-9691-8da1fc958cba": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6bddd0ce-926e-4a4c-9691-8da1fc958cba",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "92c5e87f-6f0c-426d-b06c-062c19567266": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "92c5e87f-6f0c-426d-b06c-062c19567266",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "95d36cae-391e-4959-8ec9-0a432a9f9beb": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "95d36cae-391e-4959-8ec9-0a432a9f9beb",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "b09f56b7-613e-4c89-b712-bfb123012d61": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b09f56b7-613e-4c89-b712-bfb123012d61",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "c947f8fb-6c06-4ea5-8982-68703667cbfb": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c947f8fb-6c06-4ea5-8982-68703667cbfb",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "da72a8eb-23e8-4402-809a-a9c8f9b8103f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "da72a8eb-23e8-4402-809a-a9c8f9b8103f",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "e39931da-9362-4562-b86c-e8dad76dc700": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e39931da-9362-4562-b86c-e8dad76dc700",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "f7ca024f-c9e6-4b51-98c1-cc6edb5e2f2a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f7ca024f-c9e6-4b51-98c1-cc6edb5e2f2a",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "fc52a1d7-e027-45d6-b5dd-d7cd1a6c65f3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "fc52a1d7-e027-45d6-b5dd-d7cd1a6c65f3",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "ad07ace2-cbe3-4ae8-8fc8-9dd0995d3e16": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "ad07ace2-cbe3-4ae8-8fc8-9dd0995d3e16",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -99.16193232512111, "y": -98.13424726392799 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "00a64722-82dc-43cb-babc-b52c2e645230": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "00a64722-82dc-43cb-babc-b52c2e645230",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "07d31b28-3677-45a2-b470-8e27594bdbd2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "07d31b28-3677-45a2-b470-8e27594bdbd2",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "2a4d3e56-72b0-4aae-ab72-2d6f212e8651": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2a4d3e56-72b0-4aae-ab72-2d6f212e8651",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "2fe83010-2d18-4d4d-8a99-72fe0ae743aa": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2fe83010-2d18-4d4d-8a99-72fe0ae743aa",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "77f24c4e-5632-4922-b47e-a481f740ebff": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "77f24c4e-5632-4922-b47e-a481f740ebff",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "9f32be4f-c830-43bd-860d-e32a3f31b41a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "9f32be4f-c830-43bd-860d-e32a3f31b41a",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "c6bd18e8-d576-4315-806e-c3ee7886bbdf": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c6bd18e8-d576-4315-806e-c3ee7886bbdf",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "d2f0559c-d4b4-44b4-b49f-45304e86e527": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d2f0559c-d4b4-44b4-b49f-45304e86e527",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e1f1fbb4-b079-465e-9614-039218575a62": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e1f1fbb4-b079-465e-9614-039218575a62",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e930467d-6e38-4acd-adf2-c7f2f2071d79": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e930467d-6e38-4acd-adf2-c7f2f2071d79",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "afe2f5aa-ceaa-4187-91e7-0b7992da675a": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "afe2f5aa-ceaa-4187-91e7-0b7992da675a",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -315.16193232512114, "y": -10.134247263928033 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0a9711d0-fca8-4437-b383-e3f9b03998ae": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0a9711d0-fca8-4437-b383-e3f9b03998ae",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "2eda1640-4d36-48c9-894d-e03fb2f979ee": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2eda1640-4d36-48c9-894d-e03fb2f979ee",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "3a6059e7-1c1d-4605-a8ab-d6109bc92625": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3a6059e7-1c1d-4605-a8ab-d6109bc92625",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "80bd9ef5-63c3-49c4-915b-7d4343e19868": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "80bd9ef5-63c3-49c4-915b-7d4343e19868",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "8298beeb-3b95-40d2-aef0-1d4582e8eb29": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8298beeb-3b95-40d2-aef0-1d4582e8eb29",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "89b4acdf-8c4b-4a43-b2bb-cec54726e952": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "89b4acdf-8c4b-4a43-b2bb-cec54726e952",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "8a2572e6-08e4-4860-90d4-9ba4f48d3678": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8a2572e6-08e4-4860-90d4-9ba4f48d3678",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "a0b2902c-623a-49c5-85ef-6418e680e046": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a0b2902c-623a-49c5-85ef-6418e680e046",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "e458e086-f5be-42e7-b8ab-a053bfbfc3c4": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e458e086-f5be-42e7-b8ab-a053bfbfc3c4",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "ec31ec5f-cf14-4705-83f4-55bc36135c22": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ec31ec5f-cf14-4705-83f4-55bc36135c22",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "b0710718-8a2e-48af-9780-3542be7329e1": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "b0710718-8a2e-48af-9780-3542be7329e1",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -387.1619323251209, "y": -274.13424726392793 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "1830f78c-a18e-43cf-b872-e819c43fda64": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "1830f78c-a18e-43cf-b872-e819c43fda64",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "2a25464c-4cc7-44b6-a54b-844393f0b6ef": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2a25464c-4cc7-44b6-a54b-844393f0b6ef",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "3f1bd4de-081c-41dd-9d6d-315ced4cc14b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3f1bd4de-081c-41dd-9d6d-315ced4cc14b",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "599a5357-255c-4aaa-8909-47b8979fa880": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "599a5357-255c-4aaa-8909-47b8979fa880",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "6618c3d8-016b-4c73-91e9-cc1a05a9293f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6618c3d8-016b-4c73-91e9-cc1a05a9293f",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "704b7d0f-c36f-4dc4-a4e4-ff1143eb2df6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "704b7d0f-c36f-4dc4-a4e4-ff1143eb2df6",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "8d0e3174-1ca7-47af-b60a-d242315570f6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8d0e3174-1ca7-47af-b60a-d242315570f6",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "95bee65e-77c2-44e6-82d8-68ed3df5b4a0": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "95bee65e-77c2-44e6-82d8-68ed3df5b4a0",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "c5384e2a-63b1-4404-b0a4-eb489e81bdd1": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c5384e2a-63b1-4404-b0a4-eb489e81bdd1",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "e464a306-6ec5-4598-8ed5-79ce60a2ef79": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e464a306-6ec5-4598-8ed5-79ce60a2ef79",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "b2bd1040-4175-4063-a0df-886468ff6197": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 72 },
+      "font_size": 1,
+      "group_id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "id": "b2bd1040-4175-4063-a0df-886468ff6197",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 393.92869016752076, "y": 143.61740488602968 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0aff7122-dc5e-4288-8545-30582b67a9e6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0aff7122-dc5e-4288-8545-30582b67a9e6",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "6cf23e43-3dc6-47a7-87d3-af52708beab0": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6cf23e43-3dc6-47a7-87d3-af52708beab0",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "ad20a865-c582-40b4-9afb-991a5a52e1ec": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ad20a865-c582-40b4-9afb-991a5a52e1ec",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "b855676c-05ad-4003-9dd7-2483b4d85bd1": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "radius": 12 },
+      "font_size": 1,
+      "group_id": null,
+      "id": "b855676c-05ad-4003-9dd7-2483b4d85bd1",
+      "is_locked": false,
+      "layer": -4,
+      "layout": "uplight-circle-custom",
+      "name": "",
+      "position": { "x": 344.3223585588297, "y": 290.9130011654356 },
+      "rotation": 0
+    },
+    "bd66cb84-e114-4706-88c4-8f8b04674549": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "bd66cb84-e114-4706-88c4-8f8b04674549",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -243.16193232512103, "y": 77.86575273607197 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "09b18cdc-eecf-4236-b80d-d1c7995c88d9": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "09b18cdc-eecf-4236-b80d-d1c7995c88d9",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "116a697e-7455-43c9-8f34-0f43d9747c5e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "116a697e-7455-43c9-8f34-0f43d9747c5e",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "13c4fe13-e29a-4961-8f97-28b7578d7ccd": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "13c4fe13-e29a-4961-8f97-28b7578d7ccd",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "209d2ed8-8e76-4f79-b0aa-bc45ff6c811e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "209d2ed8-8e76-4f79-b0aa-bc45ff6c811e",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "31ad1cd1-0d84-4c75-a65a-45abbcde3ede": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "31ad1cd1-0d84-4c75-a65a-45abbcde3ede",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "621dca8a-98f4-4cc4-ad6c-d21237cb6c24": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "621dca8a-98f4-4cc4-ad6c-d21237cb6c24",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "6cf508e4-3d72-429d-a4e5-526b9a0d78f5": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6cf508e4-3d72-429d-a4e5-526b9a0d78f5",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "b22a3cbd-6be1-4c7a-a6bc-66c89cc33a0e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b22a3cbd-6be1-4c7a-a6bc-66c89cc33a0e",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "c401563b-4609-4698-966f-abbf5ac3dfe0": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c401563b-4609-4698-966f-abbf5ac3dfe0",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "f06efb46-25af-46f5-92d4-3c1761a4c498": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f06efb46-25af-46f5-92d4-3c1761a4c498",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "bded9a29-90f1-4d7c-b748-3e33792f0242": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "bded9a29-90f1-4d7c-b748-3e33792f0242",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -37.646790633386615, "y": 293.9020895010966 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0f50e171-c35d-4c47-a26f-fb0a5189eed9": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0f50e171-c35d-4c47-a26f-fb0a5189eed9",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "f881f29d-d110-4934-a085-7b78393d6ae2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f881f29d-d110-4934-a085-7b78393d6ae2",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "be83d296-7126-4c68-8886-5b1de7d1d30c": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "be83d296-7126-4c68-8886-5b1de7d1d30c",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 116.83806767487893, "y": 165.8657527360721 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0990deeb-7e39-4ab5-bb4d-f543023a1139": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0990deeb-7e39-4ab5-bb4d-f543023a1139",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "10942cef-3f47-4289-9c24-484e8965f80e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "10942cef-3f47-4289-9c24-484e8965f80e",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "6e7d7a4d-f955-4556-b233-8c04aaf1ca43": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6e7d7a4d-f955-4556-b233-8c04aaf1ca43",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "768c6e35-96db-417a-b57a-64a4f04e62b2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "768c6e35-96db-417a-b57a-64a4f04e62b2",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "7f7b90a2-c87f-4fdb-9fb2-315855aa7645": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7f7b90a2-c87f-4fdb-9fb2-315855aa7645",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "91067c9e-420f-42d1-82d0-9a1a9ab038c3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "91067c9e-420f-42d1-82d0-9a1a9ab038c3",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "9e739100-1d0e-4914-a6f7-ae841234233d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "9e739100-1d0e-4914-a6f7-ae841234233d",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "a3602575-3d10-4229-a3bf-c04acbcea600": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a3602575-3d10-4229-a3bf-c04acbcea600",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "aacacfb7-c227-4be5-abc8-9d78fdd2c9f3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "aacacfb7-c227-4be5-abc8-9d78fdd2c9f3",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "b8b1fca7-4637-4dea-8fe5-61ddf87869a3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b8b1fca7-4637-4dea-8fe5-61ddf87869a3",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "beda72e2-6eb7-4112-baa1-d4ad51c41e7b": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "beda72e2-6eb7-4112-baa1-d4ad51c41e7b",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 116.83806767487887, "y": -186.13424726392802 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "265f4947-ba27-4d39-88b2-17977743037d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "265f4947-ba27-4d39-88b2-17977743037d",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "41aec4e7-1ee4-4bf5-a591-32529489359c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "41aec4e7-1ee4-4bf5-a591-32529489359c",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "7b3330fc-0ef4-4092-81bc-8ba994c669df": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7b3330fc-0ef4-4092-81bc-8ba994c669df",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "94cd242f-5117-4044-8fa7-3baedd2c60b2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "94cd242f-5117-4044-8fa7-3baedd2c60b2",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "ae3e1ff9-3f02-41df-bf38-2b6dce8fc318": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ae3e1ff9-3f02-41df-bf38-2b6dce8fc318",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "bbca0074-abbe-4a69-86ef-133aadb3c2e2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bbca0074-abbe-4a69-86ef-133aadb3c2e2",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "d1008113-b972-44e8-b4fa-d34e169aae28": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d1008113-b972-44e8-b4fa-d34e169aae28",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "d40c6ea4-1b23-44e7-89db-1205a46ea0fb": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d40c6ea4-1b23-44e7-89db-1205a46ea0fb",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "d5b3f8f1-39c6-4044-807f-3382f85add19": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d5b3f8f1-39c6-4044-807f-3382f85add19",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "fa3262d6-78e7-43b0-ba8c-80abef394191": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "fa3262d6-78e7-43b0-ba8c-80abef394191",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "c70c31dc-a108-4db2-9798-7e44ef6e4ec6": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "c70c31dc-a108-4db2-9798-7e44ef6e4ec6",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 44.8380676748789, "y": -98.13424726392799 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "054c0df8-ab89-4b3c-8ceb-61f1588f45d9": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "054c0df8-ab89-4b3c-8ceb-61f1588f45d9",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "31e7e1ea-6bc8-4aa6-805c-3638f4cb5d8e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "31e7e1ea-6bc8-4aa6-805c-3638f4cb5d8e",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "6504b8c6-d7dd-4017-97cc-d796bbb202af": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6504b8c6-d7dd-4017-97cc-d796bbb202af",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "6f431a90-6519-4bc9-bf45-44a28bfc2083": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6f431a90-6519-4bc9-bf45-44a28bfc2083",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "9858cb00-a5f9-42c6-b29e-430f56ab155e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "9858cb00-a5f9-42c6-b29e-430f56ab155e",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "a855e9bf-9786-4fa9-a91a-1ba72cc8cf0a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a855e9bf-9786-4fa9-a91a-1ba72cc8cf0a",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "d2d192e4-69e1-4c7b-8377-8b4aa9de5636": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d2d192e4-69e1-4c7b-8377-8b4aa9de5636",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e9110eb9-cbdd-4397-bb86-cfb3eb62301f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e9110eb9-cbdd-4397-bb86-cfb3eb62301f",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "f0e19c33-aad3-4766-a8ec-e131502f4de6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f0e19c33-aad3-4766-a8ec-e131502f4de6",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "f79d2c27-5a2b-432a-b92f-041a6a3a1972": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f79d2c27-5a2b-432a-b92f-041a6a3a1972",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "cf5b3540-b2e3-4d47-906f-93e2f36bbd8c": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "cf5b3540-b2e3-4d47-906f-93e2f36bbd8c",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -387.16193232512103, "y": -98.13424726392793 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "001b978a-bc46-4ba0-a512-4f1a7545f893": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "001b978a-bc46-4ba0-a512-4f1a7545f893",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "2fd10903-4df9-4cca-8470-9aeb5b7cbbbf": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2fd10903-4df9-4cca-8470-9aeb5b7cbbbf",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "2fed5fd0-decc-43a1-9be4-3ca69571083b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2fed5fd0-decc-43a1-9be4-3ca69571083b",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "3db66aca-c8ce-4b75-87eb-f15db80d044b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3db66aca-c8ce-4b75-87eb-f15db80d044b",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "6157a019-710d-4a3a-96e1-131414887434": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6157a019-710d-4a3a-96e1-131414887434",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "679a0f39-20e9-4994-8774-2e0c684d7c7c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "679a0f39-20e9-4994-8774-2e0c684d7c7c",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "a9247809-e531-44ee-9804-556f873eaca6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a9247809-e531-44ee-9804-556f873eaca6",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "e226b766-039f-4829-9e00-d5140e9ff3f7": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e226b766-039f-4829-9e00-d5140e9ff3f7",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e62b8188-cb27-48b8-8748-375420d26346": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e62b8188-cb27-48b8-8748-375420d26346",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "ec2b6563-87d8-4e7f-a476-a0664bf7121b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ec2b6563-87d8-4e7f-a476-a0664bf7121b",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "d6db6ab7-d274-40c8-b263-09b4d424c556": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "d6db6ab7-d274-40c8-b263-09b4d424c556",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 260.83806767487874, "y": 165.86575273607198 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "65c6ba34-176b-4821-af40-9beb5d83368d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "65c6ba34-176b-4821-af40-9beb5d83368d",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "6db77032-51fa-43f3-b531-ff5abd2e40f3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6db77032-51fa-43f3-b531-ff5abd2e40f3",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "81a614b5-078f-4551-bd03-e20002e5e8f6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "81a614b5-078f-4551-bd03-e20002e5e8f6",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "855394ea-bea2-43d1-96fb-b6f234e07c56": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "855394ea-bea2-43d1-96fb-b6f234e07c56",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "8729d73c-d93a-44ec-9106-1228c7d6db4d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8729d73c-d93a-44ec-9106-1228c7d6db4d",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "a4aed276-9e37-44af-880e-0671a5dce6c7": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a4aed276-9e37-44af-880e-0671a5dce6c7",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "a9eac650-a423-4098-9f18-337bf76f08e8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a9eac650-a423-4098-9f18-337bf76f08e8",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "c5562e4e-ca56-4c9c-944d-a45ad37fdefd": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "c5562e4e-ca56-4c9c-944d-a45ad37fdefd",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "ed57d21c-c972-4615-b1b4-dd39009b3f95": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ed57d21c-c972-4615-b1b4-dd39009b3f95",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "ff55e8e4-676a-45fb-9753-a7c5b24baf1e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ff55e8e4-676a-45fb-9753-a7c5b24baf1e",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "de4a8c6a-a296-4116-b09c-e379b9d07da9": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "de4a8c6a-a296-4116-b09c-e379b9d07da9",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -315.16193232512114, "y": -186.13424726392802 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0764664a-00c1-4340-8c7d-bc1b81dc02d8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0764664a-00c1-4340-8c7d-bc1b81dc02d8",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "23587a03-ae9e-4817-b046-e0b80b149dcc": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "23587a03-ae9e-4817-b046-e0b80b149dcc",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "29449011-7875-4f6b-9bdf-7a9070764999": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "29449011-7875-4f6b-9bdf-7a9070764999",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "33e597aa-fe88-4246-84f1-6344b1a5fa9b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "33e597aa-fe88-4246-84f1-6344b1a5fa9b",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "739287ec-9770-4462-9bdb-a9a3c249e780": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "739287ec-9770-4462-9bdb-a9a3c249e780",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "901e9cf1-50a2-4eca-8035-654618c47593": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "901e9cf1-50a2-4eca-8035-654618c47593",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "b5bfe5e4-b7ef-47f2-93d8-081f2ef96341": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "b5bfe5e4-b7ef-47f2-93d8-081f2ef96341",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "bb45e817-b6bd-4fd5-a1dc-5340ff512ece": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bb45e817-b6bd-4fd5-a1dc-5340ff512ece",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "d386972f-3d73-4e92-9350-bee8bb7b670a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "d386972f-3d73-4e92-9350-bee8bb7b670a",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e05f7df9-4f11-4d86-a49c-a0edece9e372": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e05f7df9-4f11-4d86-a49c-a0edece9e372",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "e4278d15-eed9-4373-b372-31facfb69c74": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 72 },
+      "font_size": 1,
+      "group_id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "id": "e4278d15-eed9-4373-b372-31facfb69c74",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 393.92869016752076, "y": -78.38259511397031 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "81269a4c-1527-4b69-9da9-aac3239428ea": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "81269a4c-1527-4b69-9da9-aac3239428ea",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "8551999d-4fed-4f2c-8563-944cb0258cb1": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8551999d-4fed-4f2c-8563-944cb0258cb1",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "e6959702-95e5-4234-9dcf-8eacab85d7bf": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e6959702-95e5-4234-9dcf-8eacab85d7bf",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "e7a5858c-ba22-4891-b1e6-fc506c972198": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "e7a5858c-ba22-4891-b1e6-fc506c972198",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -181.64679063338667, "y": 293.90208950109644 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "152de5ee-29ce-4a1f-82dd-3b102418a44e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "152de5ee-29ce-4a1f-82dd-3b102418a44e",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          },
+          "a4cb5ae5-a063-450a-a288-bd7a605a8d92": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a4cb5ae5-a063-450a-a288-bd7a605a8d92",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "eccc0d07-041a-415b-b727-10f00abd573f": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "eccc0d07-041a-415b-b727-10f00abd573f",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -27.161932325121136, "y": -186.13424726392807 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0a881400-698a-4390-b2fb-ff5978801836": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0a881400-698a-4390-b2fb-ff5978801836",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "1bd6e88d-ef5d-4067-bf62-ca3b04266e94": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "1bd6e88d-ef5d-4067-bf62-ca3b04266e94",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "48fe9c97-9a8c-40cb-83ac-02d5648a1e14": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "48fe9c97-9a8c-40cb-83ac-02d5648a1e14",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "54fa8cc9-e0b5-4a6e-8e87-05a21601f979": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "54fa8cc9-e0b5-4a6e-8e87-05a21601f979",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "551dc496-3d6a-4302-a1b4-309af1953a0c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "551dc496-3d6a-4302-a1b4-309af1953a0c",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "797a11d1-be2e-4ad0-8494-8d220d3d23e6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "797a11d1-be2e-4ad0-8494-8d220d3d23e6",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "884e8745-8dd3-41eb-8774-a6dface4ba3f": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "884e8745-8dd3-41eb-8774-a6dface4ba3f",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "cf509a25-415b-40f7-9426-b3cede1f856e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "cf509a25-415b-40f7-9426-b3cede1f856e",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e119658e-d160-4ef8-aa2c-760ac36db923": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e119658e-d160-4ef8-aa2c-760ac36db923",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "fd007f44-b95d-478e-8768-fd56249014c1": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "fd007f44-b95d-478e-8768-fd56249014c1",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "ee81859a-bf2b-4c04-ac6e-d0876318228a": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "ee81859a-bf2b-4c04-ac6e-d0876318228a",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": -171.1619323251211, "y": 165.86575273607204 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "0c009ab9-6c31-464b-a319-1a38a50549e6": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "0c009ab9-6c31-464b-a319-1a38a50549e6",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "1e97fd17-1bc4-41ab-8c79-3b0e0f59c69d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "1e97fd17-1bc4-41ab-8c79-3b0e0f59c69d",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "2e551360-695f-4ffc-bbb4-4f1e9e5a6ec1": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "2e551360-695f-4ffc-bbb4-4f1e9e5a6ec1",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "3f14c2ce-3471-44c3-810b-9de2352987ee": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "3f14c2ce-3471-44c3-810b-9de2352987ee",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "81d79907-dcaa-413e-81b7-ab3ac75ac22c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "81d79907-dcaa-413e-81b7-ab3ac75ac22c",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "a42aad79-5e5e-4eac-97b9-89921db93c52": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a42aad79-5e5e-4eac-97b9-89921db93c52",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "ac1c1ad8-08be-4662-a38d-d1020349daf2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "ac1c1ad8-08be-4662-a38d-d1020349daf2",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "bb849de3-7821-4e27-9742-4d89d872c7fd": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bb849de3-7821-4e27-9742-4d89d872c7fd",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e0c3922a-8bed-41b7-a71c-58424cd66d83": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e0c3922a-8bed-41b7-a71c-58424cd66d83",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "fe9b755a-0e0e-4def-8ccf-8187ff43c043": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "fe9b755a-0e0e-4def-8ccf-8187ff43c043",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "f558ab60-d5db-45d9-a422-28af2a0024ae": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "f558ab60-d5db-45d9-a422-28af2a0024ae",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": -85.64679063338666, "y": 293.9020895010965 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "4264c029-2024-49c3-8d61-66ee021d4988": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4264c029-2024-49c3-8d61-66ee021d4988",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          },
+          "8b8ece4f-86c8-4d03-9f3a-5a48965aada2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8b8ece4f-86c8-4d03-9f3a-5a48965aada2",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "f76d27de-f72c-4080-8e6b-09ca743eb34f": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "f76d27de-f72c-4080-8e6b-09ca743eb34f",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 188.8380676748788, "y": -98.13424726392799 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "091c4b0d-6e79-4153-9566-a16b447e24d1": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "091c4b0d-6e79-4153-9566-a16b447e24d1",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "44d14aeb-95c7-4422-ae53-51a47b60fc99": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "44d14aeb-95c7-4422-ae53-51a47b60fc99",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "4c019de7-b402-4185-b82e-7b7c1841d0e0": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "4c019de7-b402-4185-b82e-7b7c1841d0e0",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "5075329c-9a9f-4970-bae2-8aa5ea08e6a8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "5075329c-9a9f-4970-bae2-8aa5ea08e6a8",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "5226841b-f820-4ac3-b5ab-4b4ffd0e24f4": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "5226841b-f820-4ac3-b5ab-4b4ffd0e24f4",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "60193b0f-390b-4703-be62-25f066971581": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "60193b0f-390b-4703-be62-25f066971581",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "7fe225d3-58a5-4b08-bdcf-57bb29d23276": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7fe225d3-58a5-4b08-bdcf-57bb29d23276",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "83730693-c500-43b4-b5d7-b2f9fb24445a": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "83730693-c500-43b4-b5d7-b2f9fb24445a",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "8905dbc8-9438-4580-b412-5beaf5a31911": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8905dbc8-9438-4580-b412-5beaf5a31911",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "a6af5f28-6710-4249-9246-eae427ec4a53": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a6af5f28-6710-4249-9246-eae427ec4a53",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "f7a37790-6110-40cb-a40a-f7f16143cac9": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "f7a37790-6110-40cb-a40a-f7f16143cac9",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 202.35320936661338, "y": 275.90208950109644 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "9409381a-82d8-4af5-a537-2fc5969d3880": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "9409381a-82d8-4af5-a537-2fc5969d3880",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "f1ef9382-f207-4f62-9fd2-a6ce8c2f2a5e": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f1ef9382-f207-4f62-9fd2-a6ce8c2f2a5e",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "f8e4a4b3-4228-4c76-a718-e3344ec6375e": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "f8e4a4b3-4228-4c76-a718-e3344ec6375e",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 44.83806767487887, "y": 77.86575273607197 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "06664407-0fbf-484d-82a4-9875cbcf6938": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "06664407-0fbf-484d-82a4-9875cbcf6938",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "25d93b33-ce11-4e4e-9634-b8d8722cd51c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "25d93b33-ce11-4e4e-9634-b8d8722cd51c",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "6349cb76-3d03-40ca-b09c-8d72d0d1d4a9": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "6349cb76-3d03-40ca-b09c-8d72d0d1d4a9",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "79dea456-2a51-4485-9f90-b23a337a0b37": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "79dea456-2a51-4485-9f90-b23a337a0b37",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "7cfdc4e6-7a66-484b-8ce3-bc27e7a2e1d8": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "7cfdc4e6-7a66-484b-8ce3-bc27e7a2e1d8",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "8970bb57-fe29-4c84-83ec-dc1d2fac2085": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8970bb57-fe29-4c84-83ec-dc1d2fac2085",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "8f00679a-f2f8-4add-87c3-d961f65f4d81": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8f00679a-f2f8-4add-87c3-d961f65f4d81",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "919e5a38-5842-44a7-9488-b2e42a61362c": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "919e5a38-5842-44a7-9488-b2e42a61362c",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "a37a82e5-07c0-4575-a845-48acb59422ea": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a37a82e5-07c0-4575-a845-48acb59422ea",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "f5b11b0a-ae28-46dd-b5ec-dea7738a5854": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "f5b11b0a-ae28-46dd-b5ec-dea7738a5854",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    },
+    "fb49de00-8632-4a3d-838e-f010d771d040": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 18, "width": 48 },
+      "font_size": 1,
+      "group_id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "id": "fb49de00-8632-4a3d-838e-f010d771d040",
+      "is_locked": false,
+      "layer": -2,
+      "layout": "table-rectangle-custom",
+      "name": "",
+      "position": { "x": 58.35320936661341, "y": 275.90208950109644 },
+      "rotation": 180,
+      "table_meta": {
+        "chairs": {
+          "803e07ca-1482-4f7b-81e3-bb0f85cdadc1": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "803e07ca-1482-4f7b-81e3-bb0f85cdadc1",
+            "side": 3,
+            "side_index": 1,
+            "type": "chiavari"
+          },
+          "e6b54767-9a42-41ed-97fe-4722cb154159": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e6b54767-9a42-41ed-97fe-4722cb154159",
+            "side": 3,
+            "side_index": 0,
+            "type": "chiavari"
+          }
+        }
+      }
+    },
+    "fcab17c7-4f5e-4bbd-bb43-3d0966e1704b": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "radius": 12 },
+      "font_size": 1,
+      "group_id": null,
+      "id": "fcab17c7-4f5e-4bbd-bb43-3d0966e1704b",
+      "is_locked": false,
+      "layer": -3,
+      "layout": "uplight-circle-custom",
+      "name": "",
+      "position": { "x": -421.5535417979262, "y": 286.61908233070676 },
+      "rotation": 0
+    },
+    "ff106a37-8a47-436d-b81e-4643df81f43d": {
+      "color": "rgb(234, 237, 239)",
+      "dimensions": { "length": 36, "width": 72 },
+      "font_size": 1,
+      "group_id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "id": "ff106a37-8a47-436d-b81e-4643df81f43d",
+      "is_locked": false,
+      "layer": -1,
+      "layout": "table-oval-custom",
+      "name": "",
+      "position": { "x": 116.8380676748789, "y": -10.13424726392799 },
+      "rotation": 0,
+      "table_meta": {
+        "chairs": {
+          "190690b9-285b-4a5c-8cf6-9eb29806f4d2": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "190690b9-285b-4a5c-8cf6-9eb29806f4d2",
+            "side": 1,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "1999eaa0-b3b5-449c-be8c-962b880e84b5": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "1999eaa0-b3b5-449c-be8c-962b880e84b5",
+            "side": 3,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "734c2cbf-f855-42af-b6b6-5b5d73ff794b": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "734c2cbf-f855-42af-b6b6-5b5d73ff794b",
+            "side": 4,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "870a4130-649b-4d10-ba6b-cd3bdf37c5b3": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "870a4130-649b-4d10-ba6b-cd3bdf37c5b3",
+            "side": 2,
+            "side_index": 0,
+            "type": "banquet"
+          },
+          "8a9529a4-ede8-4cb8-8205-54e92ea1cb40": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "8a9529a4-ede8-4cb8-8205-54e92ea1cb40",
+            "side": 1,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "9c843054-903d-4383-8aa2-9ce37e306c77": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "9c843054-903d-4383-8aa2-9ce37e306c77",
+            "side": 2,
+            "side_index": 2,
+            "type": "banquet"
+          },
+          "a6863a66-fbda-481c-8b36-688aaaf801fb": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "a6863a66-fbda-481c-8b36-688aaaf801fb",
+            "side": 3,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "bc02361e-bd40-41f7-ab00-132f6f1e5354": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "bc02361e-bd40-41f7-ab00-132f6f1e5354",
+            "side": 2,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e4a8538b-afdd-4620-83dd-2e30ba3ce44d": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e4a8538b-afdd-4620-83dd-2e30ba3ce44d",
+            "side": 4,
+            "side_index": 1,
+            "type": "banquet"
+          },
+          "e62c80c6-1ed6-42de-b7e2-501054a602ba": {
+            "dimensions": { "length": 16, "width": 16 },
+            "id": "e62c80c6-1ed6-42de-b7e2-501054a602ba",
+            "side": 1,
+            "side_index": 2,
+            "type": "banquet"
+          }
+        }
+      }
+    }
+  },
+  "groups": {
+    "583d7e63-519d-4705-8196-70ca0b6e496b": {
+      "id": "583d7e63-519d-4705-8196-70ca0b6e496b",
+      "template_config": {
+        "aisles": {
+          "horizontal": { "floorElementsBetween": 0, "width": 0 },
+          "vertical": { "floorElementsBetween": 0, "width": 0 }
+        },
+        "chairSides": {
+          "side_1_count": 0,
+          "side_2_count": 0,
+          "side_3_count": 2,
+          "side_4_count": 0
+        },
+        "chairType": "chiavari",
+        "chairs": 2,
+        "chevronAngle": 0,
+        "floorElementType": "rectangle-table",
+        "locations": {
+          "0-0": "52299695-59de-4f41-a8d7-1633b4a68725",
+          "0-1": "7e8f0726-2aff-4a1e-9dfc-90aad714095f",
+          "0-10": "f7a37790-6110-40cb-a40a-f7f16143cac9",
+          "0-2": "8db4c4cb-1147-4b1c-b7d3-324a59e8c9ed",
+          "0-3": "9fcd7824-fb0f-4a0e-90cd-49798b459687",
+          "0-4": "4c1e8e49-e9ed-48f6-9cb8-68a46b5ce7a3",
+          "0-5": "317bf100-1dec-451e-b83e-cb95632c76d1",
+          "0-6": "7c4549a0-9e67-4835-8770-fb8e6a753e7c",
+          "0-7": "fb49de00-8632-4a3d-838e-f010d771d040",
+          "0-8": "0dc43dfb-3558-461d-a132-70541fd84770",
+          "0-9": "6ecbfe20-7372-4a5c-90af-39e4adf36f67",
+          "1-0": "3504bcf4-833f-4ce2-a46e-ccb263686bf4",
+          "1-1": "65004be1-438d-4e80-8448-67705f93c98b",
+          "1-10": "4ae521b8-2196-42f3-851f-b143050ec928",
+          "1-2": "e7a5858c-ba22-4891-b1e6-fc506c972198",
+          "1-3": "01091738-34c4-452c-b919-75ac60eb3e13",
+          "1-4": "f558ab60-d5db-45d9-a422-28af2a0024ae",
+          "1-5": "bded9a29-90f1-4d7c-b748-3e33792f0242",
+          "1-6": "1a1399b8-4317-43e2-b9c5-82098f813ef2",
+          "1-7": "59909773-5bbe-4b4a-8de7-9fc52629f7c1",
+          "1-8": "1d0ea1a9-b816-4b4f-95c6-607c5286074a",
+          "1-9": "2057c01b-555f-4cfb-a4a5-9ff68dd6b386"
+        },
+        "meta": { "cols": 11, "rows": 2 },
+        "relativeRotation": 270,
+        "rotation": 90,
+        "setup": "conference-table",
+        "table": {
+          "size": { "length": 18, "width": 48 },
+          "spacing": { "x": 0, "y": 0 }
+        }
+      }
+    },
+    "7618d75b-90ce-468e-8e83-82884f09c3b1": {
+      "id": "7618d75b-90ce-468e-8e83-82884f09c3b1",
+      "template_config": {
+        "aisles": {
+          "horizontal": { "floorElementsBetween": 5, "width": 96 },
+          "vertical": { "floorElementsBetween": 3, "width": 48 }
+        },
+        "chairs": 3,
+        "chevronAngle": 0,
+        "floorElementType": "rectangle-table",
+        "locations": {
+          "0-0": "e19638f1-8731-431b-8b9d-382b52af33b3",
+          "0-1": "f8ac0a7f-14c4-473f-8da0-ed5301694cba",
+          "0-2": "a3e66363-ffb7-4523-9092-bd2f0b2ba072",
+          "1-0": "9c05f813-08f1-4ab0-ba8a-b3098a6dda61",
+          "1-1": "04e86f3d-b793-4484-90a0-8547c4ce68e9",
+          "1-2": "5b1bc373-18ef-4e3f-a41c-3243fa9a1ae4",
+          "2-0": "b4c98e81-9dd1-4bb6-af29-3a61b16ab221",
+          "2-1": "f1a5eae7-0d6f-42aa-9937-45ceceb8b614",
+          "2-2": "ba8a133f-2725-491d-8e65-45d56d6b99a9",
+          "3-0": "0f2fd954-2c76-494a-b52a-a24e909e4908",
+          "3-1": "035625af-7771-4643-9404-cb095561c4a5",
+          "3-2": "95785e12-e6eb-4a57-aa29-32c4be05b5d5",
+          "4-0": "3b698c05-52f7-47cd-abaf-36390bc6b9bc",
+          "4-1": "4a844d8a-9cbc-457b-93ff-a86f796c10b0",
+          "4-2": "7d8254cc-c79f-4405-9f52-a073c490f07b",
+          "5-0": "08f6585f-5013-46c1-9943-928602eb91fe",
+          "5-1": "26e38a4e-2d50-48e4-a7fd-bbe9bb516ad7",
+          "5-2": "d9c2b433-5337-4990-8927-39c79d6f6435",
+          "6-0": "851ac689-3d08-4bd6-bc34-852c820ea2a2",
+          "6-1": "c2e32f04-7b3b-4f70-a963-4beb77519c1c",
+          "6-2": "e1d4d630-896d-4a61-b998-4a729c06e7c2",
+          "7-0": "0a4b6c69-a5ee-4fac-95cf-9592ad8fd84b",
+          "7-1": "9f5393b2-9fcb-4c2a-aa1e-e1f9d6c85721",
+          "7-2": "b9f664d8-e994-47eb-aef4-ceac4e15374e",
+          "8-0": "a65d11c1-a960-40c4-8fd9-3745c82b80b2",
+          "8-1": "49fc6350-74e5-414f-9a91-1bc2a578e4a2",
+          "8-2": "c70659ea-3b9d-49ed-a52c-63b072b4eabf",
+          "9-0": "493a35c0-3063-4ec9-9c97-aebfe9cd916b",
+          "9-1": "e15a2a78-ed77-46c0-863c-d88d9a1c9680",
+          "9-2": "73e1a761-76f2-4875-bd09-8c016f04e266"
+        },
+        "meta": { "cols": 0, "rows": 10 },
+        "relativeRotation": 0,
+        "rotation": 0,
+        "setup": "classroom",
+        "table": {
+          "size": { "length": 18, "width": 72 },
+          "spacing": { "x": 0, "y": 36 }
+        }
+      }
+    },
+    "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697": {
+      "id": "a3d6f8e7-65db-4f41-b501-f6e8cc2ba697",
+      "template_config": {
+        "aisles": {
+          "horizontal": { "floorElementsBetween": 5, "width": 96 },
+          "vertical": { "floorElementsBetween": 1, "width": 48 }
+        },
+        "chairs": 3,
+        "chevronAngle": 0,
+        "floorElementType": "rectangle-table",
+        "locations": {
+          "0-0": "92406808-43d5-4ff1-a094-7d4ff1ecccfd",
+          "0-1": "1f8f2da3-6d53-44f4-93a3-769934f685f4",
+          "0-2": "44c1ce13-c9ee-4867-b21e-26a109b50c1f",
+          "1-0": "7400cf54-e792-404e-93c3-b20f5ff5f9f9",
+          "1-1": "0409fef4-371c-4fe7-9cf7-416966af28c5",
+          "1-2": "6871b979-bafb-44f3-bda3-72558174085f",
+          "2-0": "78823bab-3e03-4a98-8a21-b4c3be5a1f74",
+          "2-1": "b26e1ef3-6ad7-489e-aadb-6212b040550a",
+          "2-2": "f3258a8c-1da4-4009-8edf-96d09aa79e63",
+          "3-0": "747427af-19fb-4bd3-b405-85059b5efd55",
+          "3-1": "329bc994-0ceb-4597-b133-cecb3cee0c63",
+          "3-2": "3a24bcb2-06db-4d81-a31c-745b472d69b3",
+          "4-0": "e4278d15-eed9-4373-b372-31facfb69c74",
+          "4-1": "7759ba7a-f48a-43e3-bd38-8072774578d8",
+          "4-2": "5400b3dc-ca44-4375-a2bb-bccd7313053c",
+          "5-0": "01006c71-e3e4-4826-9349-3f850025eb42",
+          "5-1": "d0965414-63ea-49c8-b628-223d4f470502",
+          "5-2": "a1586211-d848-4c3b-9950-27e939813e27",
+          "6-0": "1cfd18f0-18c8-480e-b7be-1d76a69a7cc2",
+          "6-1": "c104ecfb-111f-494d-8eec-62920cd55aca",
+          "6-2": "696a325b-acac-4773-b21c-788e1233056b",
+          "7-0": "b2bd1040-4175-4063-a0df-886468ff6197",
+          "7-1": "180cb24f-f775-409c-bd9e-ac0af6fa4526",
+          "7-2": "de284449-c3bf-4f83-97a6-b609a9179365",
+          "8-0": "237d964c-8c5f-48dd-9405-ec54f2e31f85",
+          "8-1": "0f8f1e81-4a4e-4d56-9bbe-72b152fe6fd4",
+          "8-2": "1be15cd8-db51-4c13-b406-5526acca9169"
+        },
+        "meta": { "cols": 1, "rows": 9 },
+        "relativeRotation": 0,
+        "rotation": 0,
+        "setup": "classroom",
+        "table": {
+          "size": { "length": 18, "width": 72 },
+          "spacing": { "x": 0, "y": 36 }
+        }
+      }
+    },
+    "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7": {
+      "id": "f32fa82e-e4a2-4764-81f4-9f9ccb7398f7",
+      "template_config": {
+        "chairs": 10,
+        "floorElementType": "oval-table",
+        "locations": {
+          "0-0": "b0710718-8a2e-48af-9780-3542be7329e1",
+          "0-1": "3bc03291-91a2-43ff-814c-a8f4644db837",
+          "0-2": "335eed76-b0a1-4f4e-9335-84735938b518",
+          "0-3": "718db27e-c4b6-4392-b1f5-209436de01a8",
+          "0-4": "ac773bd2-4117-4100-bbcf-48c066926c7b",
+          "1-0": "de4a8c6a-a296-4116-b09c-e379b9d07da9",
+          "1-1": "2b772b94-1788-46c2-90a1-38ff8866893d",
+          "1-2": "eccc0d07-041a-415b-b727-10f00abd573f",
+          "1-3": "beda72e2-6eb7-4112-baa1-d4ad51c41e7b",
+          "1-4": "a36fabf2-b338-46c5-a6f8-722a0edfc57c",
+          "2-0": "cf5b3540-b2e3-4d47-906f-93e2f36bbd8c",
+          "2-1": "1c9e6f91-9b9b-4534-bf9c-200bac5de5f3",
+          "2-2": "ad07ace2-cbe3-4ae8-8fc8-9dd0995d3e16",
+          "2-3": "c70c31dc-a108-4db2-9798-7e44ef6e4ec6",
+          "2-4": "f76d27de-f72c-4080-8e6b-09ca743eb34f",
+          "3-0": "afe2f5aa-ceaa-4187-91e7-0b7992da675a",
+          "3-1": "83193d9a-e15e-4f96-a92f-b8645599caa4",
+          "3-2": "0b018c4d-88d8-4972-b7d2-29138fcf66e0",
+          "3-3": "ff106a37-8a47-436d-b81e-4643df81f43d",
+          "3-4": "6044337e-63a9-4550-80a5-ff2589252950",
+          "4-0": "09638ed3-5d7a-4504-af87-f9816ef70142",
+          "4-1": "bd66cb84-e114-4706-88c4-8f8b04674549",
+          "4-2": "10d4ac55-28f7-4ad6-a268-316a368bb45b",
+          "4-3": "f8e4a4b3-4228-4c76-a718-e3344ec6375e",
+          "4-4": "1cd4396b-58de-4945-b03a-3539bfe13c0a",
+          "5-0": "44a0c562-f293-4a5e-9c52-b282084ff53a",
+          "5-1": "ee81859a-bf2b-4c04-ac6e-d0876318228a",
+          "5-2": "11ea74b2-2237-4d6d-b65a-891f7fa8d18b",
+          "5-3": "be83d296-7126-4c68-8886-5b1de7d1d30c",
+          "5-4": "d6db6ab7-d274-40c8-b263-09b4d424c556"
+        },
+        "meta": { "cols": 5, "rows": 6 },
+        "relativeRotation": 0,
+        "setup": "staggered",
+        "table": {
+          "size": { "length": 36, "width": 72 },
+          "spacing": { "x": 72, "y": 52 }
+        }
+      }
+    }
+  },
+  "id": "431b51ae-25cf-47bc-923a-d8326f476981",
+  "legacy_event_id": 2218620,
+  "name": "room good",
+  "space_id": 4241071,
+  "table_numbering": {
+    "allowRepeats": false,
+    "evenOnly": false,
+    "oddOnly": false,
+    "skipNumbers": [],
+    "skipNumbersWith": [],
+    "startingNumber": 1
+  },
+  "team_id": 91269,
+  "update_id": "49f8a191-0181-4916-8db6-d9d347543e02",
+  "updated_at": "2017-09-30T17:22:38.077Z"
+}
